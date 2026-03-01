@@ -1,5 +1,5 @@
-<div align="center">
-  <img src="https://via.placeholder.com/150" alt="avatar" width="150" />
+
+<img width="150" height="400" alt="image" src="https://github.com/user-attachments/assets/907cb110-2bc6-4edb-bcae-c8074e2b5050" />
   
   <h1>Hi, I'm <strong>axuauz</strong></h1>
   <a href="https://github.com/DSHS-ACT">ACT(KE)</a> President
