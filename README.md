@@ -31,5 +31,6 @@
   <img src="https://img.shields.io/badge/-Qiskit-000000?style=flat-square&logo=IBM&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DWSIM-F05032?style=flat-square&logo=DWSIM&logoColor=white" />
 </p>
 
