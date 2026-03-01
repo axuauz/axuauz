@@ -2,8 +2,8 @@
   <img src="https://via.placeholder.com/150" alt="avatar" width="150" />
   
   <h1>Hi, I'm <strong>axuauz</strong></h1>
-  <a href="https://github.com/DSHS-ACT">ACT(KE)</a> 53rd President
-  <p>Researcher<br>
+  <a href="https://github.com/DSHS-ACT">ACT(KE)</a> President
+  <p>I'm Researcher<br>
   for System AI, Quantum Computing</p>
 
   <!-- Social badges -->
@@ -26,12 +26,11 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=matlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" />
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/-SimPy-000000?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Overleaf-000000?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
