@@ -9,7 +9,7 @@
   <!-- Social badges -->
   <p>
     <a href="https://github.com/axuauz"><img src="https://img.shields.io/badge/GitHub-axuauz-black?style=flat-square&logo=github" alt="GitHub" /></a>
-    <a href="mailto:nujxa@icloud.com"><img src="https://img.shields.io/badge/Email-your.email%40example.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
+    <a href="mailto:nujxa@icloud.com"><img src="https://img.shields.io/badge/Email-nujxa%40icloud.com-red?style=flat-square&logo=gmail" alt="Email" /></a>
   </p>
 </div>
 
