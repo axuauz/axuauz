@@ -4,6 +4,7 @@
   <h1>Hi, I'm <strong>axuauz</strong></h1>
   <a href="https://github.com/DSHS-ACT">ACT(KE)</a> President
   <p>I'm Researcher & Engineer for System & Physical AI, Quantum Computing</p>
+  <p>I am also drawn to other engineering disciplines.</p>
 
   <!-- Social badges -->
   <p>
